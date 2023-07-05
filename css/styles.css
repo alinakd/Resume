@@ -2,7 +2,6 @@ body {
   background-color: #f6f6fa;
   padding: 40px;
   font-family: "Montserrat", sans-serif;
-  width: fit-content;
 }
 
 /* Wrapper */
@@ -183,7 +182,7 @@ body {
 }
 
 .work_experience_place {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 
 .work_experience_company {
